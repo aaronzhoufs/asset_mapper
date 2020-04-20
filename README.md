@@ -1,5 +1,5 @@
 # assets_mapper
-This python code is for the initial phrase of assets mapping for any brand clients. Mapping asset is a tough job, especially when you have tens of thousands of unmapped assets and don't know where to begin from.
+This python code is designed for the initial phrase of assets mapping for any brand clients. Mapping is a tough job, especially when you have tens of thousands of unmapped assets and don't know where to begin from.
 
 # Prerequisites
 documentations needed from your client's CMS
