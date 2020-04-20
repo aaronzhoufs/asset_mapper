@@ -7,7 +7,7 @@ documentations needed from your client's CMS
 * claim report
 
 # 1st step
-If you are not provided with a list of show names from your client, please go through line 1- line 15 of the codes. This helps you to extract is list of show names, as many of possible, from the asset report.
+If you are not being provided with a list of show names from your client(s), please go through line 1- line 15 of the codes. This helps you to extract is list of show names, as many of possible, from the asset report.
 
 ![](images/1.png)
 
